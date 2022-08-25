@@ -1,4 +1,4 @@
-### Hello, My name is Mateus Cruz. 🫶
+### Hi, my name is Mateus Cruz and I porsuing a Master Degree in Telecommunications. 🫶
 <br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matteuscruz/)
@@ -15,7 +15,7 @@
 
 ![Mateus Cruz GitHub stats](https://github-readme-stats.vercel.app/api?username=matteuscruz&show_icons=true&theme=dracula)
 
-### Distros utilizadas:
+### My mainly linux DIstros:
 
 <div style="display inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
@@ -24,7 +24,7 @@
     <img align="center" alt="html5" src="	https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 </div><br/)>
 
-### Principais tecnologias usadas:
+### Main working technologies:
 <br/>
 
 <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
