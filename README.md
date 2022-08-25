@@ -1,4 +1,4 @@
-### Hi, my name is Mateus Cruz and I porsuing a Master Degree in Telecommunications. 🫶
+###  Hi, my name is Mateus Cruz and I pursuing a Master Degree in Telecommunications. 🫶
 <br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matteuscruz/)
