@@ -1,4 +1,9 @@
 ###  Hi, my name is Mateus Cruz and I being pursuing a Master Degree in Telecommunications. 🫶
+
+I have a degree in industrial automation and have always been curious about programming. I had my first contact with C# in a technical course in electronics, after that I got deeper and deeper into the field. But, today I am more comfortable with the Python language and am extremely interested in the Artificial Intelligence field. 
+
+I have experience with Computer Vision algorithms and also autonomous data processing in an IoT approach. I have developed and implemented several classification systems using machine learning algorithms in embedded devices. Experience with wireless sensor networks and LoRa communication. I have familiarity with Linux systems in its various flavors (Ubuntu, Arch, Debian, Kali, Fedora) and also passion for the Open-Source universe and what Linux delivers to the community.
+
 <br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matteuscruz/)
