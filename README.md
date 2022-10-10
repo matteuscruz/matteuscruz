@@ -19,7 +19,7 @@
 <div style="display inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-    <img align="center" alt="html5" src="	https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 </div><br/)>
 
 ### Main working languages:
