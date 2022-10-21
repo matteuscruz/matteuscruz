@@ -37,5 +37,14 @@ I have experience with Computer Vision algorithms and also autonomous data proce
 <br/>
 <br/>
 
+Publicações: 
+
+M. R. Cruz, S. Mafra, e F. A. P. de Figueiredo, “Design, Application, and Validation of an IoT Wireless Sensor Network based on Lora for Strawberry Farming”, Anais do XL Simpósio Brasileiro de Telecomunicações e Processamento de Sinais. Sociedade Brasileira de Telecomunicações, 2022. doi: 10.14209/sbrt.2022.1570823724.
+
+M. R. Cruz, S. Mafra, e E. H. Teixeira, “An IoT Crop Recommendation System with k-NN and LoRa for Precision Farming”, Anais do XL Simpósio Brasileiro de Telecomunicações e Processamento de Sinais. Sociedade Brasileira de Telecomunicações, 2022. doi: 10.14209/sbrt.2022.1570824835.
+
+M. Cruz, S. Mafra, E. Teixeira, e F. Figueiredo, “Smart Strawberry Farming Using Edge Computing and IoT”, Sensors, vol. 22, nº 15. MDPI AG, p. 5866, ago. 05, 2022. doi: 10.3390/s22155866.
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteuscruz)](https://github.com/anuraghazra/github-readme-stats)
 
