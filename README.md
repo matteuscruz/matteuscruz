@@ -11,12 +11,9 @@ I have experience with Computer Vision algorithms and also autonomous data proce
 [![Lattes](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)](http://lattes.cnpq.br/5613080668124303)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)]()
 [![Research Gate](	https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Mateus_Cruz6)
-[![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteuscruz/)
 [![GoodReads](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/130308663-mateus-cruz)
 [![Leet Code](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/matteuscruz/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mateusraimundodacruz)
-[![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.uaiot.tk/)
-[![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/matteuscruz/)
 
 ![Mateus Cruz GitHub stats](https://github-readme-stats.vercel.app/api?username=matteuscruz&show_icons=true&theme=dracula)
 
