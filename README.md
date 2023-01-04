@@ -36,7 +36,7 @@ I have experience with Computer Vision algorithms and also autonomous data proce
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteuscruz)](https://github.com/anuraghazra/github-readme-stats)
 
-## Publicações: 
+## Publications: 
 
 <i> M. R. Cruz, S. Mafra, e F. A. P. de Figueiredo, “Design, Application, and Validation of an IoT Wireless Sensor Network based on Lora for Strawberry Farming”, Anais do XL Simpósio Brasileiro de Telecomunicações e Processamento de Sinais. Sociedade Brasileira de Telecomunicações, 2022. doi: 10.14209/sbrt.2022.1570823724.
 
