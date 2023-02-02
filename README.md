@@ -1,4 +1,4 @@
-###  Hi, my name is Mateus Cruz and I being pursuing a Master Degree in Telecommunications. 🫶
+###  Hi, my name is Mateus Cruz and I being pursuing a Phd. in Telecommunications. 🫶
 
 I have a degree in industrial automation and have always been curious about programming. I had my first contact with C# in a technical course in electronics, after that I got deeper and deeper into the field. But, today I am more comfortable with the Python language and am extremely interested in the Artificial Intelligence field. 
 
