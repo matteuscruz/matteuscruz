@@ -41,6 +41,7 @@ I have experience with Computer Vision algorithms and also autonomous data proce
 <i> 
 D. M. de Oliveira, S. Mafra, F. A. P. de Figueiredo, G. P. Pieadade, M. R. Cruz, and E. H. Teixeira, “Application of YOLOv7 for real-time detection of Aedes Aegypti,” Anais do XLI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais. Sociedade Brasileira de Telecomunicações, 2023. doi: 10.14209/sbrt.2023.1570923269.
 
+
 Matheus Henrique Fonseca Afonso, E. H. Teixeira, M. Cruz, G. P. Aquino, and E. C. V. Boas, “Vehicle and Plate Detection for Intelligent Transport Systems: Performance Evaluation of Models YOLOv5 and YOLOv8,” Unpublished, 2023, doi: 10.13140/RG.2.2.11022.95042.
 
 G. P. Pieadade, S. Mafra, D. M. de Oliveira, and M. R. Cruz, “Design, Deployment, and Validation of a Low-Cost IoT Platform based on LoRa for Precision Dairy Farming,” Anais do XLI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais. Sociedade Brasileira de Telecomunicações, 2023. doi: 10.14209/sbrt.2023.1570923572.
