@@ -38,10 +38,23 @@ I have experience with Computer Vision algorithms and also autonomous data proce
 
 ## Publications: 
 
-<i> M. R. Cruz, S. Mafra, e F. A. P. de Figueiredo, “Design, Application, and Validation of an IoT Wireless Sensor Network based on Lora for Strawberry Farming”, Anais do XL Simpósio Brasileiro de Telecomunicações e Processamento de Sinais. Sociedade Brasileira de Telecomunicações, 2022. doi: 10.14209/sbrt.2022.1570823724.
+<i> 
+D. M. de Oliveira, S. Mafra, F. A. P. de Figueiredo, G. P. Pieadade, M. R. Cruz, and E. H. Teixeira, “Application of YOLOv7 for real-time detection of Aedes Aegypti,” Anais do XLI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais. Sociedade Brasileira de Telecomunicações, 2023. doi: 10.14209/sbrt.2023.1570923269.
+
+Matheus Henrique Fonseca Afonso, E. H. Teixeira, M. Cruz, G. P. Aquino, and E. C. V. Boas, “Vehicle and Plate Detection for Intelligent Transport Systems: Performance Evaluation of Models YOLOv5 and YOLOv8,” Unpublished, 2023, doi: 10.13140/RG.2.2.11022.95042.
+
+G. P. Pieadade, S. Mafra, D. M. de Oliveira, and M. R. Cruz, “Design, Deployment, and Validation of a Low-Cost IoT Platform based on LoRa for Precision Dairy Farming,” Anais do XLI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais. Sociedade Brasileira de Telecomunicações, 2023. doi: 10.14209/sbrt.2023.1570923572.
+
+M. R. Cruz, E. H. Teixeira, S. Mafra, and F. A. P. de Figueiredo, “A Multi-Faceted Approach to Maritime Security: Federated Learning, Computer Vision, and IoT in Edge Computing,” Anais do XLI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais. Sociedade Brasileira de Telecomunicações, 2023. doi: 10.14209/sbrt.2023.1570923804.
+
+M. R. Cruz, F. A. P. de Figueiredo, S. Mafra, D. M. de Oliveira, and E. H. Teixeira, “Evaluating Computer Vision Architectures for Ship Classification: A Comparative Study,” Anais do XLI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais. Sociedade Brasileira de Telecomunicações, 2023. doi: 10.14209/sbrt.2023.1570923801.
+
+M. R. Cruz, S. Mafra, e F. A. P. de Figueiredo, “Design, Application, and Validation of an IoT Wireless Sensor Network based on Lora for Strawberry Farming”, Anais do XL Simpósio Brasileiro de Telecomunicações e Processamento de Sinais. Sociedade Brasileira de Telecomunicações, 2022. doi: 10.14209/sbrt.2022.1570823724.
 
 M. R. Cruz, S. Mafra, e E. H. Teixeira, “An IoT Crop Recommendation System with k-NN and LoRa for Precision Farming”, Anais do XL Simpósio Brasileiro de Telecomunicações e Processamento de Sinais. Sociedade Brasileira de Telecomunicações, 2022. doi: 10.14209/sbrt.2022.1570824835.
 
-M. Cruz, S. Mafra, E. Teixeira, e F. Figueiredo, “Smart Strawberry Farming Using Edge Computing and IoT”, Sensors, vol. 22, nº 15. MDPI AG, p. 5866, ago. 05, 2022. doi: 10.3390/s22155866. </i>
+M. Cruz, S. Mafra, E. Teixeira, e F. Figueiredo, “Smart Strawberry Farming Using Edge Computing and IoT”, Sensors, vol. 22, nº 15. MDPI AG, p. 5866, ago. 05, 2022. doi: 10.3390/s22155866. 
+
+</i>
 
 
