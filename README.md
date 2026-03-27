@@ -93,31 +93,25 @@ I am a long-time Linux user and open-source enthusiast, working daily with multi
 ---
 
 
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateuscruzz/?locale=en)
+
+---
+
 ## 📚 Selected Publications
 
 <table>
   <tr>
-    <td>📄 <strong>Smart Strawberry Farming Using Edge Computing and IoT</strong><br><em>Sensors, 2022</em></td>
-    <td>📄 <strong>Application of YOLOv7 for Real-Time Detection of Aedes Aegypti</strong><br><em>SBrT, 2023</em></td>
+    <td><small>📄 <em>Smart Strawberry Farming Using Edge Computing and IoT</em><br>Sensors, 2022</small></td>
+    <td><small>📄 <em>Application of YOLOv7 for Real-Time Detection of Aedes Aegypti</em><br>SBrT, 2023</small></td>
   </tr>
   <tr>
-    <td>📄 <strong>Evaluating Computer Vision Architectures for Ship Classification</strong><br><em>SBrT, 2023</em></td>
-    <td>📄 <strong>A Multi-Faceted Approach to Maritime Security: Federated Learning, Computer Vision, and IoT</strong><br><em>SBrT, 2023</em></td>
+    <td><small>📄 <em>Evaluating Computer Vision Architectures for Ship Classification</em><br>SBrT, 2023</small></td>
+    <td><small>📄 <em>A Multi-Faceted Approach to Maritime Security: Federated Learning, Computer Vision, and IoT</em><br>SBrT, 2023</small></td>
   </tr>
   <tr>
-    <td>📄 <strong>Vehicle and Plate Detection for Intelligent Transport Systems: YOLOv5 vs YOLOv8</strong><br><em>2023</em></td>
+    <td><small>📄 <em>Vehicle and Plate Detection for Intelligent Transport Systems: YOLOv5 vs YOLOv8</em><br>2023</small></td>
     <td></td>
   </tr>
 </table>
-
----
-
-## 🌐 Connect with Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matteuscruz/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Matteuscruz/)
-[![Lattes](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)](http://lattes.cnpq.br/5613080668124303)
-[![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Mateus_Cruz6)
-[![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/130308663-mateus-cruz)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/matteuscruz/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mateusraimundodacruz)
