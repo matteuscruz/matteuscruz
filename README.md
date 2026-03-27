@@ -10,17 +10,6 @@ Currently, my work explores how modern AI techniques can be deployed in **real-w
 
 ---
 
-## 🔬 Research Areas
-
-My main research interests include:
-
-- **Computer Vision** for medical, agricultural, and maritime applications  
-- **Machine Learning and Deep Learning**, including explainable AI  
-- **Federated Learning and privacy-preserving AI systems**  
-- **Internet of Things (IoT) and wireless sensor networks**  
-- **Edge AI and embedded intelligent systems**
-
----
 
 ## 🚀 Featured Projects
 
@@ -32,15 +21,6 @@ My main research interests include:
 
 ---
 
-## 💻 Programming Languages
-
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</div>
-
----
 
 ## 🛠️ Technology Stack
 
@@ -91,6 +71,9 @@ My main research interests include:
       <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=white" alt="Git">
       <img src="https://img.shields.io/badge/-n8n-05122A?style=flat&logo=n8n&logoColor=white" alt="n8n">
       <img src="https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=white" alt="Jupyter">
+      <img src="https://img.shields.io/badge/-DVC-05122A?style=flat&logo=dvc&logoColor=white" alt="DVC">
+      <img src="https://img.shields.io/badge/-Kubeflow-05122A?style=flat&logo=kubeflow&logoColor=white" alt="Kubeflow">
+      <img src="https://img.shields.io/badge/-GCP-05122A?style=flat&logo=google-cloud&logoColor=white" alt="GCP">
     </td>
   </tr>
 </table>
@@ -112,11 +95,20 @@ I am a long-time Linux user and open-source enthusiast, working daily with multi
 
 ## 📚 Selected Publications
 
-- **Smart Strawberry Farming Using Edge Computing and IoT**, *Sensors*, 2022  
-- **Application of YOLOv7 for Real-Time Detection of Aedes Aegypti**, SBrT, 2023  
-- **Evaluating Computer Vision Architectures for Ship Classification**, SBrT, 2023  
-- **A Multi-Faceted Approach to Maritime Security: Federated Learning, Computer Vision, and IoT**, SBrT, 2023  
-- **Vehicle and Plate Detection for Intelligent Transport Systems: YOLOv5 vs YOLOv8**, 2023  
+<table>
+  <tr>
+    <td>📄 <strong>Smart Strawberry Farming Using Edge Computing and IoT</strong><br><em>Sensors, 2022</em></td>
+    <td>📄 <strong>Application of YOLOv7 for Real-Time Detection of Aedes Aegypti</strong><br><em>SBrT, 2023</em></td>
+  </tr>
+  <tr>
+    <td>📄 <strong>Evaluating Computer Vision Architectures for Ship Classification</strong><br><em>SBrT, 2023</em></td>
+    <td>📄 <strong>A Multi-Faceted Approach to Maritime Security: Federated Learning, Computer Vision, and IoT</strong><br><em>SBrT, 2023</em></td>
+  </tr>
+  <tr>
+    <td>📄 <strong>Vehicle and Plate Detection for Intelligent Transport Systems: YOLOv5 vs YOLOv8</strong><br><em>2023</em></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
