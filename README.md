@@ -1,25 +1,21 @@
 <a href="https://www.linkedin.com/in/mateuscruzz/?locale=en" target="_blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-## Hi 👋, I'm Mateus Cruz
+## Hi, I'm Mateus Cruz
 
-🎓 Ph.D. Candidate in Electrical & Telecommunications Engineering | 🤖 AI Researcher | 🌐 Computer Vision, IoT & Edge AI
+Ph.D. Candidate in Electrical & Telecommunications Engineering | AI Researcher | Software Developer
 
 I am a Ph.D. candidate at two Brazilian research institutions. At the **Instituto Nacional de Telecomunicações (INATEL)**, my research focuses on the **decentralization of learning through Federated Learning and Blockchain**, investigating how distributed and trustless architectures can enable privacy-preserving, collaborative AI systems. At the **Universidade Federal de Itajubá (UNIFEI)**, my work centers on the **design and optimization of Deep Learning models for deployment on embedded devices and microcontrollers**, bridging the gap between state-of-the-art AI and resource-constrained hardware.
 
 My background spans **Computer Science, Telecommunications, and Data Science**, providing a multidisciplinary foundation for developing AI-driven solutions at the intersection of **Edge AI, IoT, and distributed intelligence**.
 
----
 
 
-## 🚀 Featured Projects
+## Main Projects
 
 <a href="https://precisioncareai.com.br/" target="_blank">
   <img src="imgs/fig_medical_platform.png" alt="PrecisionCare AI — Intelligent Medical Platform" width="100%"/>
 </a>
 
-**[PrecisionCare AI](https://precisioncareai.com.br/)** — An intelligent medical platform leveraging AI and Computer Vision for precision healthcare solutions.
-
----
 
 
 ## 🛠️ Technology Stack
@@ -78,17 +74,7 @@ My background spans **Computer Science, Telecommunications, and Data Science**, 
   </tr>
 </table>
 
----
-
-
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateuscruzz/?locale=en)
-
----
-
-## <a href="http://lattes.cnpq.br/5613080668124303" target="_blank"><img src="https://img.shields.io/badge/Lattes-CNPq-blue?style=for-the-badge" alt="Lattes CNPq"/></a>
+## <a href="http://lattes.cnpq.br/5613080668124303" target="_blank"><img align="right" src="https://img.shields.io/badge/Lattes-CNPq-blue?style=for-the-badge" alt="Lattes CNPq"/></a>
 
 <table>
   <tr>
