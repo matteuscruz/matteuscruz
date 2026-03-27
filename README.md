@@ -73,13 +73,6 @@ I am a long-time Linux user and open-source enthusiast, working daily with multi
 
 ---
 
-## 📊 GitHub Statistics
-
-![Mateus Cruz GitHub stats](https://github-readme-stats.vercel.app/api?username=matteuscruz&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteuscruz)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ## 📚 Selected Publications
 
