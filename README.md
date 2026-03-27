@@ -80,17 +80,6 @@ Currently, my work explores how modern AI techniques can be deployed in **real-w
 
 ---
 
-## 🐧 Linux & Open Source
-
-I am a long-time Linux user and open-source enthusiast, working daily with multiple distributions for research and development environments.
-
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-</div>
-
----
 
 
 ## 🌐 Connect with Me
@@ -99,19 +88,46 @@ I am a long-time Linux user and open-source enthusiast, working daily with multi
 
 ---
 
-## 📚 Selected Publications
+## 📚 Publications
+
+**Journal Articles**
 
 <table>
   <tr>
-    <td><small>📄 <em>Smart Strawberry Farming Using Edge Computing and IoT</em><br>Sensors, 2022</small></td>
-    <td><small>📄 <em>Application of YOLOv7 for Real-Time Detection of Aedes Aegypti</em><br>SBrT, 2023</small></td>
-  </tr>
-  <tr>
-    <td><small>📄 <em>Evaluating Computer Vision Architectures for Ship Classification</em><br>SBrT, 2023</small></td>
-    <td><small>📄 <em>A Multi-Faceted Approach to Maritime Security: Federated Learning, Computer Vision, and IoT</em><br>SBrT, 2023</small></td>
-  </tr>
-  <tr>
-    <td><small>📄 <em>Vehicle and Plate Detection for Intelligent Transport Systems: YOLOv5 vs YOLOv8</em><br>2023</small></td>
+    <td><small>📄 <em>Smart Strawberry Farming Using Edge Computing and IoT</em><br>SENSORS, 2022</small></td>
     <td></td>
+  </tr>
+</table>
+
+**Conference Papers**
+
+<table>
+  <tr>
+    <td><small>📄 <em>Advances in the Use of rPPG for Non-Invasive Heart Rate Estimation</em><br>SBrT, 2025</small></td>
+    <td><small>📄 <em>Brain Tumor Detection Using YOLOv11 on Edge Computing for Decision Support</em><br>ACDSA, 2025</small></td>
+  </tr>
+  <tr>
+    <td><small>📄 <em>Enhancing Healthcare Through Collaborative Intelligence: a Federated Learning Case Study</em><br>IEEE LASCAS, 2025</small></td>
+    <td><small>📄 <em>A Federated Learning-based Solution for Pneumonia Diagnosis in Remote and Low-Income Areas</em><br>SBrT, 2024</small></td>
+  </tr>
+  <tr>
+    <td><small>📄 <em>Brain Tumor Images Class-Based and Prompt-Based Detectors and Segmenter: Performance Evaluation of YOLO, SAM and Grounding DINO</em><br>ICoABCD, 2024</small></td>
+    <td><small>📄 <em>Pick and Place em Tempo Real Usando Visão Computacional com YOLOv8 e Staubli TS60</em><br>SBrT, 2024</small></td>
+  </tr>
+  <tr>
+    <td><small>📄 <em>Application of YOLOv7 for Real-Time Detection of Aedes Aegypti</em><br>SBrT, 2023</small></td>
+    <td><small>📄 <em>A Multi-Faceted Approach to Maritime Security: Federated Learning, Computer Vision, and IoT in Edge Computing</em><br>SBrT, 2023</small></td>
+  </tr>
+  <tr>
+    <td><small>📄 <em>Evaluating Computer Vision Architectures for Ship Classification: A Comparative Study</em><br>SBrT, 2023</small></td>
+    <td><small>📄 <em>Smart Farming with Computer Vision: Detecting Diseases in Strawberry Crops via Mobile Applications</em><br>SBrT, 2023</small></td>
+  </tr>
+  <tr>
+    <td><small>📄 <em>Design, Deployment, and Validation of a Low-Cost IoT Platform based on LoRa for Precision Dairy Farming</em><br>SBrT, 2023</small></td>
+    <td><small>📄 <em>Vehicle and Plate Detection for Intelligent Transport Systems: Performance Evaluation of Models YOLOv5 and YOLOv8</em><br>IEEE ICOCO, 2023</small></td>
+  </tr>
+  <tr>
+    <td><small>📄 <em>An IoT Crop Recommendation System with k-NN and LoRa for Precision Farming</em><br>SBrT, 2022</small></td>
+    <td><small>📄 <em>Design, Application, and Validation of an IoT Wireless Sensor Network based on LoRa for Strawberry Farming</em><br>SBrT, 2022</small></td>
   </tr>
 </table>
