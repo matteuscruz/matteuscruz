@@ -88,18 +88,7 @@ Currently, my work explores how modern AI techniques can be deployed in **real-w
 
 ---
 
-## 📚 Publications
-
-**Journal Articles**
-
-<table>
-  <tr>
-    <td><small>📄 <em>Smart Strawberry Farming Using Edge Computing and IoT</em><br>SENSORS, 2022</small></td>
-    <td></td>
-  </tr>
-</table>
-
-**Conference Papers**
+## <a href="http://lattes.cnpq.br/5613080668124303" target="_blank"><img src="https://img.shields.io/badge/Lattes-CNPq-blue?style=for-the-badge" alt="Lattes CNPq"/></a>
 
 <table>
   <tr>
@@ -129,5 +118,9 @@ Currently, my work explores how modern AI techniques can be deployed in **real-w
   <tr>
     <td><small>📄 <em>An IoT Crop Recommendation System with k-NN and LoRa for Precision Farming</em><br>SBrT, 2022</small></td>
     <td><small>📄 <em>Design, Application, and Validation of an IoT Wireless Sensor Network based on LoRa for Strawberry Farming</em><br>SBrT, 2022</small></td>
+  </tr>
+  <tr>
+    <td><small>📄 <em>Smart Strawberry Farming Using Edge Computing and IoT</em><br>SENSORS, 2022</small></td>
+    <td></td>
   </tr>
 </table>
