@@ -1,3 +1,5 @@
+<a href="https://www.linkedin.com/in/mateuscruzz/?locale=en" target="_blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
 ## Hi 👋, I'm Mateus Cruz
 
 🎓 Ph.D. Candidate in Electrical & Telecommunications Engineering | 🤖 AI Researcher | 🌐 Computer Vision, IoT & Edge AI
