@@ -42,22 +42,58 @@ My main research interests include:
 
 ---
 
-## 🧰 Tools & Frameworks
+## 🛠️ Technology Stack
 
-**Machine Learning & Deep Learning**  
-Scikit-learn · XGBoost · PyTorch · TensorFlow · Keras · FastAI  
-
-**Computer Vision**  
-OpenCV · YOLO · TorchVision  
-
-**Data Science**  
-Pandas · NumPy · Matplotlib · Seaborn  
-
-**MLOps & Development**  
-Git · Docker · Linux · Bash/Zsh  
-
-**Scientific Writing**  
-LaTeX · Overleaf · R Markdown  
+<table>
+  <tr>
+    <td align="center" width="180">
+      <strong>AI & Agents</strong>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=langchain&logoColor=white" alt="LangChain">
+      <img src="https://img.shields.io/badge/-LangGraph-05122A?style=flat" alt="LangGraph">
+      <img src="https://img.shields.io/badge/-CrewAI-05122A?style=flat" alt="CrewAI">
+      <img src="https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
+      <img src="https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
+      <img src="https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=white" alt="Keras">
+      <img src="https://img.shields.io/badge/-Hugging%20Face-05122A?style=flat&logo=huggingface&logoColor=white" alt="Hugging Face">
+      <img src="https://img.shields.io/badge/-Ultralytics-05122A?style=flat" alt="Ultralytics">
+      <img src="https://img.shields.io/badge/-FastAI-05122A?style=flat" alt="FastAI">
+      <img src="https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=white" alt="OpenCV">
+      <img src="https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
+      <img src="https://img.shields.io/badge/-JAX-05122A?style=flat" alt="JAX">
+      <img src="https://img.shields.io/badge/-ONNX-05122A?style=flat&logo=onnx&logoColor=white" alt="ONNX">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Backend & Cloud</strong>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
+      <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask&logoColor=white" alt="Flask">
+      <img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=white" alt="C#">
+      <img src="https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet&logoColor=white" alt=".NET">
+      <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws&logoColor=white" alt="AWS">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Data Eng & MLOps</strong>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-Apache%20Airflow-05122A?style=flat&logo=apache-airflow&logoColor=white" alt="Apache Airflow">
+      <img src="https://img.shields.io/badge/-MLflow-05122A?style=flat&logo=mlflow&logoColor=white" alt="MLflow">
+      <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/-n8n-05122A?style=flat&logo=n8n&logoColor=white" alt="n8n">
+      <img src="https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=white" alt="Jupyter">
+    </td>
+  </tr>
+</table>
 
 ---
 
