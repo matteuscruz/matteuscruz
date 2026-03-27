@@ -22,6 +22,16 @@ My main research interests include:
 
 ---
 
+## 🚀 Featured Projects
+
+<a href="https://precisioncareai.com.br/" target="_blank">
+  <img src="imgs/fig_medical_platform.png" alt="PrecisionCare AI — Intelligent Medical Platform" width="100%"/>
+</a>
+
+**[PrecisionCare AI](https://precisioncareai.com.br/)** — An intelligent medical platform leveraging AI and Computer Vision for precision healthcare solutions.
+
+---
+
 ## 💻 Programming Languages
 
 <div style="display: inline_block">
