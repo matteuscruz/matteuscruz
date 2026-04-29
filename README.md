@@ -2,9 +2,9 @@
 
 ## Hi, I'm Mateus Cruz
 
-Ph.D. Candidate in Electrical & Telecommunications Engineering | AI Researcher | Software Developer
+Ph.D. Candidate in Telecommunications Engineering | AI Researcher | Software Developer
 
-I am a Ph.D. candidate at two Brazilian research institutions. At the **Instituto Nacional de Telecomunicações (INATEL)**, my research focuses on the **decentralization of learning through Federated Learning and Blockchain**, investigating how distributed and trustless architectures can enable privacy-preserving, collaborative AI systems. At the **Universidade Federal de Itajubá (UNIFEI)**, my work centers on the **design and optimization of Deep Learning models for deployment on embedded devices and microcontrollers**, bridging the gap between state-of-the-art AI and resource-constrained hardware.
+I am a Ph.D. candidate at two Brazilian research institutions. At the **Instituto Nacional de Telecomunicações (INATEL)**, my research focuses on the **decentralization of learning through Federated Learning and Blockchain**, investigating how distributed and trustless architectures can enable privacy-preserving, collaborative AI systems.
 
 My background spans **Computer Science, Telecommunications, and Data Science**, providing a multidisciplinary foundation for developing AI-driven solutions at the intersection of **Edge AI, IoT, and distributed intelligence**.
 
