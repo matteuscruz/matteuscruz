@@ -16,6 +16,22 @@ My background spans **Computer Science, Telecommunications, and Data Science**, 
   <img src="imgs/fig_medical_platform.png" alt="PrecisionCare AI — Intelligent Medical Platform" width="100%"/>
 </a>
 
+<a href="#" target="_blank">
+  <img src="imgs/2.png" alt="Medical Platform" width="100%"/>
+</a>
+
+<a href="#" target="_blank">
+  <img src="imgs/1.png" alt="Federated Learning Platform" width="100%"/>
+</a>
+
+<a href="#" target="_blank">
+  <img src="imgs/3.png" alt="Blockchain for Medical AI" width="100%"/>
+</a>
+
+<a href="#" target="_blank">
+  <img src="imgs/4.png" alt="EEG AI Optimization" width="100%"/>
+</a>
+
 
 
 ## 🛠️ Technology Stack
