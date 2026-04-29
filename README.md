@@ -13,10 +13,6 @@ My background spans **Computer Science, Telecommunications, and Data Science**, 
 ## Main Projects
 
 <a href="https://precisioncareai.com.br/" target="_blank">
-  <img src="imgs/fig_medical_platform.png" alt="PrecisionCare AI — Intelligent Medical Platform" width="100%"/>
-</a>
-
-<a href="#" target="_blank">
   <img src="imgs/2.png" alt="Medical Platform" width="100%"/>
 </a>
 
