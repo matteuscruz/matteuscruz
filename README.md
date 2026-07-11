@@ -2,11 +2,13 @@
 
 ## Hi, I'm Mateus Cruz
 
-Ph.D. Candidate in Telecommunications Engineering | AI Researcher | Software Developer
+Ph.D. Candidate in Electrical Engineering | AI Researcher | Software Developer
 
-I am a Ph.D. candidate at two Brazilian research institutions. At the **Instituto Nacional de Telecomunicações (INATEL)**, my research focuses on the **decentralization of learning through Federated Learning and Blockchain**, investigating how distributed and trustless architectures can enable privacy-preserving, collaborative AI systems.
+I'm a Ph.D. candidate with experience in two research institutions, Unifei and Inatel. During my time at the Instituto Nacional de Telecomunicações (INATEL), I conducted research on decentralized learning approaches based on Federated Learning and Blockchain, exploring distributed architectures for privacy-preserving and collaborative AI systems. Additionally, during my Master’s research, I investigated IoT-based solutions for agriculture using LoRa communication technologies, focusing on low-power wireless networks for Computer Vision and Machine Learning models, edge-enabled sensing, and smart monitoring systems for agricultural applications.
 
-My background spans **Computer Science, Telecommunications, and Data Science**, providing a multidisciplinary foundation for developing AI-driven solutions at the intersection of **Edge AI, IoT, and distributed intelligence**.
+Currently, I am pursuing a Ph.D. in Electrical Engineering at the Federal University of Itajubá (UNIFEI), where my research focuses on Neural Architecture Search (NAS) for EEG-based deep learning models targeting resource-constrained embedded devices. My work investigates hardware-aware optimization techniques for designing efficient neural networks capable of performing intelligent signal analysis in low-power edge computing environments.
+
+My background spans **Engeneering, Computer Science, Data Science and Artificial Intelligence System**, providing a multidisciplinary foundation for developing AI-driven solutions at the intersection of **Edge AI, IoT, and distributed intelligence**.
 
 
 
@@ -21,14 +23,12 @@ My background spans **Computer Science, Telecommunications, and Data Science**, 
 </a>
 
 <a href="#" target="_blank">
-  <img src="imgs/3.png" alt="Blockchain for Medical AI" width="100%"/>
-</a>
-
-<a href="#" target="_blank">
   <img src="imgs/4.png" alt="EEG AI Optimization" width="100%"/>
 </a>
 
-
+<a href="#" target="_blank">
+  <img src="imgs/3.png" alt="Blockchain for Medical AI" width="100%"/>
+</a>
 
 ## 🛠️ Technology Stack
 
