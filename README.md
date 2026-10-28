@@ -13,25 +13,34 @@ During my time at the Instituto Nacional de Telecomunicações (INATEL), I condu
 
 My background spans **Engeneering, Computer Science, Data Science and Artificial Intelligence System**, providing a multidisciplinary foundation for developing AI-driven solutions at the intersection of **Edge AI, IoT, and distributed intelligence**.
 
-
-
 ## Main Projects
 
-<a href="https://precisioncareai.com.br/" target="_blank">
-  <img src="imgs/2.png" alt="Medical Platform" width="100%"/>
-</a>
-
-<a href="#" target="_blank">
-  <img src="imgs/1.png" alt="Federated Learning Platform" width="100%"/>
-</a>
-
-<a href="#" target="_blank">
-  <img src="imgs/4.png" alt="EEG AI Optimization" width="100%"/>
-</a>
-
-<a href="#" target="_blank">
-  <img src="imgs/3.png" alt="Blockchain for Medical AI" width="100%"/>
-</a>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://precisioncareai.com.br/" target="_blank">
+        <img src="imgs/2.png" alt="Medical Platform" width="100%"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="#" target="_blank">
+        <img src="imgs/1.png" alt="Federated Learning Platform" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="#" target="_blank">
+        <img src="imgs/4.png" alt="EEG AI Optimization" width="100%"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="#" target="_blank">
+        <img src="imgs/3.png" alt="Blockchain for Medical AI" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Technology Stack
 
