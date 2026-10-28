@@ -1,4 +1,5 @@
 <a href="https://www.linkedin.com/in/mateuscruzz/?locale=en" target="_blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://matteuscruz.github.io/ai-cruz/" target="_blank"><img align="right" src="https://img.shields.io/badge/Website-05122A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
 
 ## Hi, I'm Mateus Cruz
 
@@ -89,6 +90,14 @@ My background spans **Engeneering, Computer Science, Data Science and Artificial
 ## <a href="http://lattes.cnpq.br/5613080668124303" target="_blank"><img align="right" src="https://img.shields.io/badge/Lattes-CNPq-blue?style=for-the-badge" alt="Lattes CNPq"/></a>
 
 <table>
+  <tr>
+    <td><small>📄 <em>Beyond Nano on YOLO11: Scaling Pico and Femto Models for Resource-Constrained UAV Object Detection</em><br>ACDSA, 2027</small></td>
+    <td><small>📄 <em>Experimental Ground-Marker Detection for UAV Landing: An Evaluation of YOLO11 and YOLO26</em><br>ACDSA, 2027</small></td>
+  </tr>
+  <tr>
+    <td><small>📄 <em>LoFAI: Privacy-Preserving In-Browser rPPG for Heart-Rate-Adaptive Procedural LoFi Music</em><br>ACDSA, 2027</small></td>
+    <td><small>📄 <em>A Context-Aware Hierarchical Pipeline for Automatic License Plate Recognition</em><br>ACDSA, 2027</small></td>
+  </tr>
   <tr>
     <td><small>📄 <em>Advances in the Use of rPPG for Non-Invasive Heart Rate Estimation</em><br>SBrT, 2025</small></td>
     <td><small>📄 <em>Brain Tumor Detection Using YOLOv11 on Edge Computing for Decision Support</em><br>ACDSA, 2025</small></td>
